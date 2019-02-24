@@ -19,7 +19,9 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-
+      <div className="alert alert-primary" role="alert">
+        <strong>primary</strong>
+      </div>
 
           </a>
         </header>
