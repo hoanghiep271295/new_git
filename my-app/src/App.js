@@ -20,7 +20,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
       <div className="alert alert-primary" role="alert">
-        <strong>primary</strong>
+        <strong>feature-test</strong>
       </div>
 
           </a>
